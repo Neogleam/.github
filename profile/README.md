@@ -1,4 +1,4 @@
-<img src = "awesomebg.png">
+<img src = "background.png">
 
 | Label        | Description           
 | ------------- |-------------|
